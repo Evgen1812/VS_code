@@ -1,10 +1,16 @@
 
 
-let incr = 10,
-    decr = 10;
 
 
 
 
 
 
+
+
+
+
+
+
+let number = 9;
+alert(number);
